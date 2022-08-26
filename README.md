@@ -31,4 +31,5 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=martin-walls&theme=onedark&hide_border=true)<br/>
 <!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=martin-walls&theme=onedark&hide_border=true&include_all_commits=false&count_private=false&layout=compact) -->
 
-<img src="https://github.com/martin-walls/martin-walls/blob/output/github-contribution-grid-snake.svg">
+![GitHub snake light](https://github.com/martin-walls/martin-walls/blob/output/github-snake.svg#gh-light-mode-only)
+![GitHub snake dark](https://github.com/martin-walls/martin-walls/blob/output/github-snake-dark.svg#gh-dark-mode-only)
