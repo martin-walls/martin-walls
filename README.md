@@ -1,10 +1,10 @@
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/martinwalls50)
+<!-- ## 🌐 Socials: -->
+<!-- [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/martinwalls50) -->
+[![Website](https://img.shields.io/badge/-martinwalls.com-lightblue)](https://martinwalls.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/martin-r-walls)
-[![Website](https://img.shields.io/badge/-Website-orange)](https://martinwalls.com)
 
-# 💻 Tech Stack:
+<!-- # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
@@ -24,11 +24,11 @@
 ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
 
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) -->
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=martin-walls&theme=onedark&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=martin-walls&theme=onedark&hide_border=true)<br/>
+<!-- # 📊 GitHub Stats: -->
+<!-- ![](https://github-readme-stats.vercel.app/api?username=martin-walls&theme=onedark&hide_border=true&include_all_commits=false&count_private=false)<br/> -->
+<!-- ![](https://github-readme-streak-stats.herokuapp.com/?user=martin-walls&theme=onedark&hide_border=true)<br/> -->
 <!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=martin-walls&theme=onedark&hide_border=true&include_all_commits=false&count_private=false&layout=compact) -->
 
 ![GitHub snake light](../output/github-snake.svg#gh-light-mode-only)
